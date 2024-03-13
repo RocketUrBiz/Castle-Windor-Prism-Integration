@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Prism.CastleWindsor</id>
+    <version>8.1.77-pre</version>
+    <authors>Brian Lagunas,Dan Siegel</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <icon>prism-logo.png</icon>
+    <projectUrl>https://github.com/PrismLibrary/Prism</projectUrl>
+    <description>Use these extensions to build Prism applications based on CastleWindsor.</description>
+    <releaseNotes>https://github.com/PrismLibrary/Prism/releases/tag/v</releaseNotes>
+    <tags>prism castlewindsor mvvm wpf xaml</tags>
+    <repository type="git" url="https://github.com/PrismLibrary/Prism" commit="be2d5e29851d92bcb8602d9e2614f42d250ee18e" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.6.1">
+        <dependency id="Prism.Wpf" version="8.1.77-pre" exclude="Build,Analyzers" />
+        <dependency id="Castle.Core" version="4.4.1" exclude="Build,Analyzers" />
+        <dependency id="Castle.Windsor" version="5.1.1" exclude="Build,Analyzers" />
+        <dependency id="CommonServiceLocator" version="2.0.5" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETFramework4.7">
+        <dependency id="Prism.Wpf" version="8.1.77-pre" exclude="Build,Analyzers" />
+        <dependency id="Castle.Core" version="4.4.1" exclude="Build,Analyzers" />
+        <dependency id="Castle.Windsor" version="5.1.1" exclude="Build,Analyzers" />
+        <dependency id="CommonServiceLocator" version="2.0.5" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Prism.Wpf" version="8.1.77-pre" exclude="Build,Analyzers" />
+        <dependency id="Castle.Core" version="4.4.1" exclude="Build,Analyzers" />
+        <dependency id="Castle.Windsor" version="5.1.1" exclude="Build,Analyzers" />
+        <dependency id="CommonServiceLocator" version="2.0.5" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net5.0-windows7.0">
+        <dependency id="Prism.Wpf" version="8.1.77-pre" exclude="Build,Analyzers" />
+        <dependency id="Castle.Core" version="4.4.1" exclude="Build,Analyzers" />
+        <dependency id="Castle.Windsor" version="5.1.1" exclude="Build,Analyzers" />
+        <dependency id="CommonServiceLocator" version="2.0.5" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+      <group targetFramework="net5.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+      <group targetFramework=".NETFramework4.6.1" />
+      <group targetFramework=".NETFramework4.7" />
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="G:\Prism\src\Wpf\Prism.CastleWindsor.Wpf\bin\Debug\net461\Prism.CastleWindsor.Wpf.pdb" target="lib\net461\Prism.CastleWindsor.Wpf.pdb" />
+    <file src="G:\Prism\src\Wpf\Prism.CastleWindsor.Wpf\bin\Debug\net47\Prism.CastleWindsor.Wpf.pdb" target="lib\net47\Prism.CastleWindsor.Wpf.pdb" />
+    <file src="G:\Prism\src\Wpf\Prism.CastleWindsor.Wpf\bin\Debug\net5.0-windows\Prism.CastleWindsor.Wpf.pdb" target="lib\net5.0-windows7.0\Prism.CastleWindsor.Wpf.pdb" />
+    <file src="G:\Prism\src\Wpf\Prism.CastleWindsor.Wpf\bin\Debug\netcoreapp3.1\Prism.CastleWindsor.Wpf.pdb" target="lib\netcoreapp3.1\Prism.CastleWindsor.Wpf.pdb" />
+  </files>
+</package>

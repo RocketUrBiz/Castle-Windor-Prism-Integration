@@ -1,0 +1,9 @@
+O:\Prism\src\Wpf\Prism.CastleWindsor.Wpf\obj\Debug\net7.0-windows\Prism.CastleWindsor.Wpf.csproj.AssemblyReference.cache
+O:\Prism\src\Wpf\Prism.CastleWindsor.Wpf\obj\Debug\net7.0-windows\Prism.CastleWindsor.Properties.Resources.resources
+O:\Prism\src\Wpf\Prism.CastleWindsor.Wpf\obj\Debug\net7.0-windows\Prism.CastleWindsor.Local.Messages.Resources.resources
+O:\Prism\src\Wpf\Prism.CastleWindsor.Wpf\obj\Debug\net7.0-windows\Prism.CastleWindsor.Wpf.csproj.GenerateResource.cache
+O:\Prism\src\Wpf\Prism.CastleWindsor.Wpf\obj\Debug\net7.0-windows\Prism.CastleWindsor.Wpf.GeneratedMSBuildEditorConfig.editorconfig
+O:\Prism\src\Wpf\Prism.CastleWindsor.Wpf\obj\Debug\net7.0-windows\Prism.CastleWindsor.Wpf.AssemblyInfoInputs.cache
+O:\Prism\src\Wpf\Prism.CastleWindsor.Wpf\obj\Debug\net7.0-windows\Prism.CastleWindsor.Wpf.AssemblyInfo.cs
+O:\Prism\src\Wpf\Prism.CastleWindsor.Wpf\obj\Debug\net7.0-windows\Prism.CastleWindsor.Wpf.csproj.CoreCompileInputs.cache
+O:\Prism\src\Wpf\Prism.CastleWindsor.Wpf\obj\Debug\net7.0-windows\Prism.CastleWindsor.Wpf.sourcelink.json

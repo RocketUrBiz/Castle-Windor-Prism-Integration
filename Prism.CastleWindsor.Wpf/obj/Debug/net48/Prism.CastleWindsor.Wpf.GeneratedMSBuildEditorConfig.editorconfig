@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Prism.CastleWindsor
+build_property.ProjectDir = O:\Prism\src\Wpf\Prism.CastleWindsor.Wpf\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

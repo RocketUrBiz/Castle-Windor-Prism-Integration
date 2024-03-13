@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Prism.CastleWindsor.Wpf": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
